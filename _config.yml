@@ -1,0 +1,28 @@
+name: smart1marketing
+favicon: null
+layout_spectrum: 0.03839622461237013
+typography_spectrum: 0.7859677895903587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9485263079404831
+  lightness: 0.46745630935765803
+  saturation: 0.033190380316227674
+  rhythmicContrast: 0.5722243881318718
+purpose: []
